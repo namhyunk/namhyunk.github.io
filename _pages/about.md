@@ -38,8 +38,12 @@ I explore a wide range of wireless communication challenges—from physical-laye
 
 ## Publications
 
-- **Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback** — Accepted, *IEEE Transactions on Wireless Communications* (Aug. 2025)
-- **Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback** — Accepted, *IEEE Transactions on Wireless Communications* (Aug. 2025)
+For a complete list of publications, please visit the [Publications](/publications/) page.
+
+### Selected Publications
+
+- **Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback** — Published, *IEEE Transactions on Wireless Communications* (Aug. 2025)
+- **Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback** — Published, *IEEE Transactions on Wireless Communications* (Aug. 2025)
 
 ## Let's Connect
 
