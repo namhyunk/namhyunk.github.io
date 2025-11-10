@@ -38,12 +38,19 @@ I explore a wide range of wireless communication challenges—from physical-laye
 
 ## Publications
 
-For a complete list of publications, please visit the [Publications](/publications/) page.
+### Journal Articles
 
-### Selected Publications
+- N. Kim, J. Han, J. Choi, A. Alkhateeb, C.-B. Chae and J. Park, "Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Published)
+- N. Kim, I. P. Roberts and J. Park, "Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Published)
 
-- **Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback** — Published, *IEEE Transactions on Wireless Communications* (Aug. 2025)
-- **Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback** — Published, *IEEE Transactions on Wireless Communications* (Aug. 2025)
+### Conference Papers
+
+- N. Kim, and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2025 IEEE International Symposium on Information Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6.
+- N. Kim, J. Han and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, Seoul, South Korea, 2024, pp. 132–137.
+
+### Preprints
+
+- N. Kim, S. Alikhani, and A. Alkhateeb, "LWM-Spectro: A foundation model for wireless baseband signal spectrograms," submitted to *Proc. IEEE Int. Conf. Commun. (ICC)*, 2026.
 
 ## Let's Connect
 
