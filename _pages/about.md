@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Namhyun Kim, and I'm currently pursuing my PhD in Electrical and Computer Engineering at Arizona State University. 
+Hi there! I'm Namhyun Kim, and I'm currently pursuing my PhD in Electrical and Computer Engineering at [Arizona State University](https://www.asu.edu/). 
 
 I work on next-generation wireless networks and how AI can rethink their design and optimization. That path led me from South Korea to Arizona, where I keep exploring what's possible with these systems. I'm advised by [Prof. Ahmed Alkhateeb](https://scholar.google.com/citations?user=dLHw2qcAAAAJ&hl=en), and before ASU I worked as a network engineer at [SK Telecom](https://www.sktelecom.com/index_en.html), collaborating closely with [Prof. Jeonghun Park](https://yonsei-jpark.github.io/) and [Prof. Junil Choi](https://www.icl.kaist.ac.kr/people/professor).
 

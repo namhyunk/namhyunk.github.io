@@ -26,9 +26,9 @@ author:
   avatar           : "profile_2021.jpg"
   name             : "Namhyun Kim"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student in the Department of Electrical and Computer Engineering at Arizona State University."
+  bio              : "I am a PhD student in the Department of Electrical and Computer Engineering at <a href='https://www.asu.edu/'>Arizona State University</a>."
   location         : "Tempe, AZ"
-  employer         : "Arizona State University"
+  employer         : "<a href='https://www.asu.edu/'>Arizona State University</a>"
   uri              : # URL
   email            : "namhyun@asu.edu" 
 
