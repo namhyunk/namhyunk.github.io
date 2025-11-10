@@ -1,7 +1,7 @@
 ---
 title: "Splitting Messages in the Dark-Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback"
 authors: "N. Kim, I. P. Roberts and J. Park"
-venue: "IEEE Transactions on Wireless Communications"
+venue: "IEEE Transactions on Wireless Communications (Published)"
 date: 2025-04-01
 category: manuscripts
 paperurl: "https://ieeexplore.ieee.org/document/11142922"
@@ -27,3 +27,7 @@ Massive MIMO, Channel estimation, Rate-splitting multiple access, Error covarian
 ## Impact
 
 This work contributes to the advancement of massive MIMO systems by providing practical solutions for CSI acquisition challenges in FDD scenarios, with potential applications in 5G and beyond wireless communication systems.
+
+
+
+

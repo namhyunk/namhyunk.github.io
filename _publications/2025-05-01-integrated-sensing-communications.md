@@ -1,7 +1,7 @@
 ---
 title: "Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback"
 authors: "N. Kim, J. Han, J. Choi, A. Alkhateeb, C.-B. Chae and J. Park"
-venue: "IEEE Transactions on Wireless Communications"
+venue: "IEEE Transactions on Wireless Communications (Published)"
 date: 2025-05-01
 category: manuscripts
 paperurl: "https://ieeexplore.ieee.org/document/10851806"
@@ -35,3 +35,7 @@ MIMO, Integrated sensing and communication, Rate-splitting multiple access, Erro
 ## Applications
 
 This research has significant implications for future wireless systems, particularly in applications requiring simultaneous communication and sensing capabilities such as autonomous vehicles, smart cities, and IoT networks.
+
+
+
+
