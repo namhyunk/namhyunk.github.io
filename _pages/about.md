@@ -16,7 +16,7 @@ redirect_from:
         &nbsp;·&nbsp; ✉️ <a href="mailto:namhyun@asu.edu">namhyun@asu.edu</a>
         &nbsp;·&nbsp; 🔎 <a href="https://scholar.google.com/citations?user=xt6PHq4AAAAJ&hl=en&oi=ao">Google Scholar</a>
         &nbsp;·&nbsp; 💼 <a href="https://www.linkedin.com/in/namhyun-kim-a2071a27a/">LinkedIn</a>
-        &nbsp;·&nbsp; 📄 <a href="/files/CV.pdf">CV (PDF)</a>
+         &nbsp;·&nbsp; 📄 <a href="/files/CV.pdf">CV PDF</a>
       </p>
     </div>
     <div class="nk-hero__right">
@@ -29,10 +29,10 @@ I’m Namhyun Kim, a PhD student at Arizona State University, working on next-ge
 
 Before ASU, I worked as a network engineer at [SK Telecom](https://www.sktelecom.com/index_en.html), collaborating closely with [Prof. Jeonghun Park](https://yonsei-jpark.github.io/) and [Prof. Junil Choi](https://www.icl.kaist.ac.kr/people/professor).
 
-Current projects include:
+My research interests include AI-native wireless systems, foundation models/representation learning for wireless signals, and practical signal processing and protocol design for FDD massive MIMO and integrated sensing and communications (ISAC), with an emphasis on reducing overhead such as CSI feedback.
 
-- 🧠 **Wireless foundation models**: [LWM-Spectro (arXiv:2601.08780)](https://arxiv.org/abs/2601.08780)
-- 📡 **FDD massive MIMO without CSI feedback (ISAC)**: [TWC Early Access](https://doi.org/10.1109/TWC.2025.3600645)
-- 🌗 **Rate-splitting for CSI-limited FDD massive MIMO**: [TWC Early Access](https://doi.org/10.1109/TWC.2025.3529945)
+I am a recipient of the **Korean Government Scholarship Program (KGSP)**.
 
-More: 🔬 [Research](/research/) · 📄 [Publications](/publications/) · 🗓️ [News](/news/) · 🎓 [Background](/background/) · 📬 [Contact](/contact/) · 📌 [CV](/cv/)
+**Education (summary)**: PhD ECE (in progress), Arizona State University · M.S. EE (2023), KAIST · B.S. EEE (2021), Yonsei University
+
+More: [Research](/research/) · [Publications](/publications/) · [News](/news/) · [Background](/background/) · [Contact](/contact/) · [CV](/cv/)
