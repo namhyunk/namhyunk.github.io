@@ -10,7 +10,7 @@
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  gap: 1.25rem;
+  gap: 1rem;
 }
 
 .nk-hero__left {
@@ -45,21 +45,25 @@
 }
 
 .nk-hero__photo {
-  width: 220px;
-  height: 220px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
-  border-radius: 14px;
+  border-radius: 12px;
   border: 1px solid var(--global-border-color);
   box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
 }
 
+.nk-hero__blurb {
+  margin: 0.65rem 0 0;
+}
+
 @media (max-width: 740px) {
   .nk-hero__row {
-    flex-direction: column-reverse;
+    flex-direction: column;
   }
 
   .nk-hero__photo {
-    width: 180px;
-    height: 180px;
+    width: 140px;
+    height: 140px;
   }
 }

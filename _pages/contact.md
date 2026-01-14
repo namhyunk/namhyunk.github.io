@@ -1,6 +1,6 @@
 ---
 permalink: /contact/
-title: "📬 Contact"
+title: "Contact"
 author_profile: false
 ---
 
@@ -8,4 +8,4 @@ author_profile: false
 - ✉️ **Email**: [namhyun@asu.edu](mailto:namhyun@asu.edu)
 - 🔎 **Google Scholar**: [profile](https://scholar.google.com/citations?user=xt6PHq4AAAAJ&hl=en&oi=ao)
 - 💼 **LinkedIn**: [connect](https://www.linkedin.com/in/namhyun-kim-a2071a27a/)
-- 📄 **CV**: [CV PDF](/files/CV.pdf)
+- 📄 **CV**: [CV](/files/CV.pdf)

@@ -1,6 +1,6 @@
 ---
 permalink: /background/
-title: "🎓 Background"
+title: "Background"
 author_profile: false
 ---
 

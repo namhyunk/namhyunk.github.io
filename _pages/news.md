@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "🗓️ News"
+title: "News"
 author_profile: false
 ---
 
