@@ -1,28 +1,28 @@
 ---
-title: "LWM-Spectro: A foundation model for wireless baseband signal spectrograms"
+title: "LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms"
 authors: "N. Kim, S. Alikhani, and A. Alkhateeb"
-venue: "Submitted to IEEE International Conference on Communications (ICC)"
-date: 2026-01-01
+venue: "arXiv preprint (cs.IT; eess.SP)"
+date: 2026-01-13
 category: preprints
-paperurl: ""
-excerpt: "This paper presents LWM-Spectro, a foundation model for wireless baseband signal spectrograms, submitted to IEEE ICC 2026."
+paperurl: "https://arxiv.org/abs/2601.08780"
+excerpt: "Transformer-based foundation model pretrained on large-scale I/Q spectrograms using self-supervised masked modeling, contrastive learning, and a mixture-of-experts (MoE) architecture; strong transfer to downstream wireless tasks."
 ---
 
 ## Abstract
 
-We present LWM-Spectro, a foundation model designed for analyzing wireless baseband signal spectrograms. This work introduces novel deep learning approaches for signal processing and analysis in wireless communication systems.
+We present LWM-Spectro, a transformer-based foundation model pretrained on large-scale wireless I/Q data represented as time-frequency spectrograms. The model combines masked modeling, contrastive learning, and a mixture-of-experts (MoE) architecture to learn general-purpose representations that transfer effectively to downstream wireless tasks, including modulation classification and joint SNR/mobility recognition, even with limited supervision.
 
 ## Key Contributions
 
-- **Foundation Model**: Novel foundation model architecture for wireless signal analysis
-- **Spectrogram Analysis**: Advanced techniques for baseband signal spectrogram processing
-- **Deep Learning Integration**: State-of-the-art deep learning methods for wireless communications
+- **Wireless foundation model**: Transformer-based representation learning for I/Q spectrograms
+- **Self-supervised pretraining**: Masked modeling + contrastive learning to reduce label needs
+- **MoE scaling**: Mixture-of-experts architecture for capacity/compute trade-offs
+- **Transfer learning**: Strong performance on downstream tasks in few-shot and data-rich regimes
 
 ## Status
 
-**Preprint** - Submitted to Proc. IEEE Int. Conf. Commun. (ICC), 2026
+**Preprint** - arXiv:2601.08780 (Jan. 2026)
 
 ## Keywords
-
-Foundation models, Wireless communications, Signal processing, Spectrograms, Deep learning, Baseband signals
+Foundation models, wireless I/Q, spectrograms, self-supervised learning, contrastive learning, mixture-of-experts, transfer learning
 

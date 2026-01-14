@@ -32,6 +32,10 @@ I work on next-generation wireless networks and how AI can rethink their design 
 
 I explore a wide range of wireless communication challenges—from physical-layer signal processing to AI-augmented network intelligence. Visit the [Research Interests](/research/) page for a deeper dive into current themes.
 
+## News
+
+{% include news.html limit=10 %}
+
 ## Scholarships
 
 - **Korean Government Scholarship Program (KGSP)** — [NIIED, Republic of Korea Government](http://www.niied.go.kr/eng/main.do): A prestigious national scholarship providing funding support to pursue graduate studies abroad.
@@ -40,17 +44,18 @@ I explore a wide range of wireless communication challenges—from physical-laye
 
 ### Journal Articles
 
-- N. Kim, J. Han, J. Choi, A. Alkhateeb, C.-B. Chae and J. Park, "Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Published)
-- N. Kim, I. P. Roberts and J. Park, "Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Published)
+- N. Kim, J. Han, J. Choi, A. Alkhateeb, C.-B. Chae and J. Park, "Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Posted: 2025/08/27)
+- N. Kim, I. P. Roberts and J. Park, "Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO without CSI Feedback," *IEEE Transactions on Wireless Communications*, 2025. (Posted: 2025/01/23)
+- J. Han, N. Kim, and J. Park, "Reducing Latency by Eliminating CSIT Feedback: FDD Downlink MIMO Transmission for Internet-of-Things Communications," *IEEE Internet of Things Journal*, Early Access, 2025. (Posted: 2025/12/24)
 
 ### Conference Papers
 
-- N. Kim, and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2025 IEEE International Symposium on Information Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6.
-- N. Kim, J. Han and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, Seoul, South Korea, 2024, pp. 132–137.
+- N. Kim, and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2025 IEEE International Symposium on Information Theory (ISIT)*, Ann Arbor, MI, USA, 2025, pp. 1–6. (Posted: 2025/06/22)
+- N. Kim, J. Han and J. Park, "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC," *2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)*, Seoul, South Korea, 2024, pp. 132–137. (Posted: 2024/10/21)
 
 ### Preprints
 
-- N. Kim, S. Alikhani, and A. Alkhateeb, "LWM-Spectro: A foundation model for wireless baseband signal spectrograms," submitted to *Proc. IEEE Int. Conf. Commun. (ICC)*, 2026.
+- N. Kim, S. Alikhani, and A. Alkhateeb, "LWM-Spectro: A foundation model for wireless baseband signal spectrograms," arXiv:2601.08780, 2026. (Posted: 2026/01/13)
 
 ## Let's Connect
 

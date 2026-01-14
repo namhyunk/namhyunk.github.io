@@ -2,9 +2,9 @@
 title: "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC"
 authors: "N. Kim, J. Han and J. Park"
 venue: "2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)"
-date: 2024-11-01
+date: 2024-10-21
 category: conferences
-paperurl: "https://ieeexplore.ieee.org"
+paperurl: "https://ieeexplore.ieee.org/document/10778378"
 excerpt: "This paper explores integrated sensing and communications in FDD MIMO systems without CSI feedback, presented at WiOpt 2024 in Seoul, South Korea."
 ---
 

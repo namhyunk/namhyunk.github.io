@@ -1,0 +1,38 @@
+# Research news items (reverse-chronological on the site)
+# Date format: YYYY-MM-DD
+
+- date: 2026-01-13
+  label: "Preprint"
+  title: "LWM-Spectro posted on arXiv"
+  description: "LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms."
+  url: "https://arxiv.org/abs/2601.08780"
+
+- date: 2025-12-24
+  label: "Journal (Early Access)"
+  title: "IEEE Internet of Things Journal"
+  description: "Reducing Latency by Eliminating CSIT Feedback: FDD Downlink MIMO Transmission for Internet-of-Things Communications."
+  url: "/publications/2025-12-01-eliminating-csit-feedback-iotj/"
+
+- date: 2025-08-27
+  label: "Journal (Early Access)"
+  title: "IEEE Transactions on Wireless Communications"
+  description: "Integrated Sensing and Communications in Downlink FDD MIMO Without CSI Feedback."
+  url: "/publications/2025-05-01-integrated-sensing-communications/"
+
+- date: 2025-01-23
+  label: "Journal (Early Access)"
+  title: "IEEE Transactions on Wireless Communications"
+  description: "Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback."
+  url: "/publications/2025-04-01-splitting-messages-dark/"
+
+- date: 2025-06-22
+  label: "Conference"
+  title: "ISIT 2025"
+  description: "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC."
+  url: "/publications/2025-07-01-isac-isit/"
+
+- date: 2024-10-21
+  label: "Conference"
+  title: "WiOpt 2024"
+  description: "Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC."
+  url: "https://ieeexplore.ieee.org/document/10778378"
