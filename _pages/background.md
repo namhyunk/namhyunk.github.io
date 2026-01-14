@@ -10,7 +10,7 @@ author_profile: false
   [Arizona State University](https://www.asu.edu/), Tempe, AZ
 - **M.S. in Electrical Engineering** (2023)  
   Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), Daejeon, South Korea
-- **B.S. in Electrical and Electronic Engineering** (Hons., 2021 — graduated in the top 3% of the class)  
+- **B.S. in Electrical and Electronic Engineering** (Hons., 2021)  
   [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do), Seoul, South Korea
 
 ## Professional Experience
