@@ -1,0 +1,88 @@
+/* ==========================================================================
+   TABS (homepage)
+   ========================================================================== */
+
+.nk-hero {
+  margin: 0.25rem 0 1.25rem;
+}
+
+.nk-hero__role {
+  margin: 0 0 0.35rem;
+  color: var(--global-text-color);
+}
+
+.nk-hero__meta {
+  margin: 0;
+  color: var(--global-text-color-light);
+  font-size: 0.95em;
+}
+
+.nk-hero__meta a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+.nk-tabs {
+  margin: 1.5rem 0 1rem;
+}
+
+.nk-tabs__input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.nk-tabs__controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0 0 0.75rem;
+  padding: 0;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.nk-tabs__label {
+  display: inline-block;
+  padding: 0.55rem 0.7rem;
+  margin: 0 0 -1px;
+  border: 1px solid transparent;
+  border-bottom: 1px solid transparent;
+  border-radius: 0.65rem 0.65rem 0 0;
+  color: var(--global-text-color-light);
+  cursor: pointer;
+  user-select: none;
+}
+
+.nk-tabs__label:hover {
+  color: var(--global-text-color);
+}
+
+.nk-tabs__panels {
+  padding-top: 0.25rem;
+}
+
+.nk-tabs__panel {
+  display: none;
+}
+
+/* Active tab styling */
+#nk-tab-overview:checked ~ .nk-tabs__controls label[for="nk-tab-overview"],
+#nk-tab-news:checked ~ .nk-tabs__controls label[for="nk-tab-news"],
+#nk-tab-publications:checked ~ .nk-tabs__controls label[for="nk-tab-publications"],
+#nk-tab-background:checked ~ .nk-tabs__controls label[for="nk-tab-background"],
+#nk-tab-contact:checked ~ .nk-tabs__controls label[for="nk-tab-contact"] {
+  color: var(--global-text-color);
+  font-weight: 700;
+  border-color: var(--global-border-color);
+  background: var(--global-bg-color);
+}
+
+/* Show the active panel */
+#nk-tab-overview:checked ~ .nk-tabs__panels .nk-tabs__panel--overview,
+#nk-tab-news:checked ~ .nk-tabs__panels .nk-tabs__panel--news,
+#nk-tab-publications:checked ~ .nk-tabs__panels .nk-tabs__panel--publications,
+#nk-tab-background:checked ~ .nk-tabs__panels .nk-tabs__panel--background,
+#nk-tab-contact:checked ~ .nk-tabs__panels .nk-tabs__panel--contact {
+  display: block;
+}
