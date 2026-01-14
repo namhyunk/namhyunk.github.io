@@ -21,3 +21,5 @@ Understanding and optimizing wireless networks is at the core of my research. I 
 
 - **Wireless baseband spectrogram foundation models (LWM-Spectro)**  
   Training generative models on heterogeneous baseband spectrogram captures to uncover reusable neural priors, then adapting them to downstream spectrum sensing and interference diagnostics with minimal labeled data.
+  
+  Links: <a href="https://arxiv.org/abs/2601.08780" target="_blank" rel="noopener">arXiv</a> | <a href="https://huggingface.co/spaces/wi-lab/LWM-Spectro" target="_blank" rel="noopener"><img class="nk-inline-icon" src="/images/huggingface_logo-noborder.svg" alt="" aria-hidden="true"/>Hugging Face</a>
