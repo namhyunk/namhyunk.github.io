@@ -27,12 +27,12 @@ redirect_from:
 
 I am a PhD student in Electrical and Computer Engineering at [Arizona State University](https://www.asu.edu/). I work on next-generation wireless networks and how AI can rethink their design and optimization. I’m advised by [Prof. Ahmed Alkhateeb](https://scholar.google.com/citations?user=dLHw2qcAAAAJ&hl=en). I am a recipient of the Korean Government Scholarship Program (KGSP) ([NIIED](https://www.niied.go.kr/web/NIIED/contents/niiedEng/eng_studyAbroadKr)).
 
-My research focuses on building wireless systems that are practical, data-driven, and deployable—from PHY-layer signal processing to learning-enabled network intelligence. I’m particularly interested in representation learning and foundation models for wireless signals, and in system/protocol design for massive MIMO and integrated sensing and communications (ISAC) under realistic overhead constraints.
+My research focuses on practical, data-driven wireless system design—from PHY-layer signal processing and prototyping to learning-based spectrum/network intelligence. I work on representation learning and foundation models for wireless signals, as well as system and protocol design that connects algorithms to deployable implementations and communication standardization.
 
 Current projects include:
 
 - Data-driven wireless systems and foundation models for wireless signals
 - Massive MIMO design under practical overhead constraints
-- Integrated sensing and communications (ISAC) for practical FDD systems
+- Integrated sensing and communications (ISAC) for practical systems
 
 Prior to joining ASU, I worked as a network engineer at [SK Telecom](https://www.sktelecom.com/index_en.html). I have collaborated with [Prof. Jeonghun Park](https://yonsei-jpark.github.io/) and [Prof. Junil Choi](https://www.icl.kaist.ac.kr/people/professor). I received my M.S. in Electrical Engineering (2023) from [KAIST](https://www.kaist.ac.kr/en/) and my B.S. in Electrical and Electronic Engineering (Hons., 2021) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
