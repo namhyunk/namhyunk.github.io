@@ -2,10 +2,19 @@
 {% assign news_limit = include.limit | default: 8 %}
 
 <div class="news">
-  <div class="news__list">
+  <ol class="news__list">
     {% for item in news_items limit: news_limit %}
-      <div class="news__item">
-        <div class="news__marker" aria-hidden="true"></div>
+      {% assign emoji = "✨" %}
+      {% if item.label contains "Preprint" %}
+        {% assign emoji = "🧪" %}
+      {% elsif item.label contains "Journal" %}
+        {% assign emoji = "📄" %}
+      {% elsif item.label contains "Conference" %}
+        {% assign emoji = "🎤" %}
+      {% endif %}
+
+      <li class="news__item">
+        <div class="news__marker" aria-hidden="true">{{ forloop.index }}</div>
         <div class="news__content">
           <div class="news__meta">
             <time class="news__date" datetime="{{ item.date }}">{{ item.date | date: "%b %d, %Y" }}</time>
@@ -14,17 +23,20 @@
             {% endif %}
           </div>
 
-          {% if item.url %}
-            <a class="news__title" href="{{ item.url }}" rel="noopener">{{ item.title }}</a>
-          {% else %}
-            <span class="news__title">{{ item.title }}</span>
-          {% endif %}
+          <div class="news__headline">
+            <span class="news__emoji" aria-hidden="true">{{ emoji }}</span>
+            {% if item.url %}
+              <a class="news__title" href="{{ item.url }}" rel="noopener">{{ item.title }}</a>
+            {% else %}
+              <span class="news__title">{{ item.title }}</span>
+            {% endif %}
+          </div>
 
           {% if item.description %}
             <div class="news__desc">{{ item.description }}</div>
           {% endif %}
         </div>
-      </div>
+      </li>
     {% endfor %}
-  </div>
+  </ol>
 </div>

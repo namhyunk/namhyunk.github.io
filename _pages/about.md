@@ -34,6 +34,8 @@ I explore a wide range of wireless communication challenges—from physical-laye
 
 ## News
 
+Here are a few recent updates from my research life — newest first.
+
 {% include news.html limit=10 %}
 
 ## Scholarships
