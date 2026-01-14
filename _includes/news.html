@@ -4,33 +4,22 @@
 <div class="news">
   <ol class="news__list">
     {% for item in news_items limit: news_limit %}
-      {% assign emoji = "✨" %}
-      {% if item.label contains "Preprint" %}
-        {% assign emoji = "🧪" %}
-      {% elsif item.label contains "Journal" %}
-        {% assign emoji = "📄" %}
-      {% elsif item.label contains "Conference" %}
-        {% assign emoji = "🎤" %}
-      {% endif %}
-
       <li class="news__item">
         <div class="news__marker" aria-hidden="true">{{ forloop.index }}</div>
         <div class="news__content">
           <div class="news__meta">
             <time class="news__date" datetime="{{ item.date }}">{{ item.date | date: "%b %d, %Y" }}</time>
             {% if item.label %}
-              <span class="news__label">{{ item.label }}</span>
+              <span class="news__sep" aria-hidden="true">·</span>
+              <em class="news__label">{{ item.label }}</em>
             {% endif %}
           </div>
 
-          <div class="news__headline">
-            <span class="news__emoji" aria-hidden="true">{{ emoji }}</span>
-            {% if item.url %}
-              <a class="news__title" href="{{ item.url }}" rel="noopener">{{ item.title }}</a>
-            {% else %}
-              <span class="news__title">{{ item.title }}</span>
-            {% endif %}
-          </div>
+          {% if item.url %}
+            <a class="news__title" href="{{ item.url }}" rel="noopener">{{ item.title }}</a>
+          {% else %}
+            <span class="news__title">{{ item.title }}</span>
+          {% endif %}
 
           {% if item.description %}
             <div class="news__desc">{{ item.description }}</div>
