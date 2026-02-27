@@ -1,0 +1,232 @@
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{letterpaper, margin=0.75in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+\usepackage{graphicx} % For images
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\usepackage{verbatim}
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+%%%%%%%%%%
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyhead[L]{\textit{Namhyun Kim}}
+\fancyhead[R]{\textit{Jan. 23, 2026}}
+\thispagestyle{empty} % Remove header from the first page
+
+% Header
+\begin{center}
+    \textbf{\Large{CV}}\\
+    Jan. 23, 2026
+\end{center}
+
+\begin{flushleft}
+\textbf{\huge Namhyun Kim}\hfill\href{mailto:namhyunk@asu.edu}{\underline{namhyunk@asu.edu}}\\[2pt]
+{\small
+\href{https://namhyunk.github.io/}{\raisebox{-0.1\height}{\includegraphics[height=0.14in]{github.png}}\ \underline{Website}} \quad
+\href{https://scholar.google.com/citations?user=p93SDScAAAAJ&hl=ko}{\raisebox{-0.1\height}{\includegraphics[height=0.14in]{googleScholar.jpg}}\ \underline{Google Scholar}}}
+\end{flushleft}
+\vspace{2pt}
+
+% Education Section
+\section*{Research Interest}
+\noindent
+Beyond 5G/6G communication systems based on massive MIMO, integrated sensing and communication (ISAC), AI/ML-based communications, Foundation models, Bayesian estimation, etc.
+
+\section*{Education}
+\noindent Arizona State University (ASU), Tempe, AZ, USA \hfill Jan. 2025 | In progress\par
+\noindent Doctor of Philosophy in \textbf{Electrical, Computer and Energy Engineering}\par
+\noindent {\small{\textit{Advisor}: \href{https://scholar.google.com/citations?hl=en&user=dLHw2qcAAAAJ}{[\underline{Prof. Ahmed Alkhateeb}]}.}}\par\vspace{4pt}
+
+\noindent Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea \hfill Mar. 2021 | Feb. 2023\par
+\noindent Master of Science in \textbf{Electrical Engineering} \hfill Cumulative GPA: 3.81/4.30\par
+\noindent {\small{\textit{Dissertation}: Location-Aware Downlink Beamforming with Marginal Training Overhead for MmWave FDD Massive MIMO Systems.\\
+\textit{Advisor}: \href{https://scholar.google.com/citations?user=aSBAHt8AAAAJ&hl=en}{[\underline{Prof. Junil Choi}]}.}}\par\vspace{4pt}
+
+\noindent Yonsei University, Seoul, South Korea \hfill Mar. 2015 | Feb. 2021\par
+\noindent Bachelor of Science in \textbf{Electrical Engineering} (High Hons.) \hfill Cumulative GPA: 4.04/4.30\par
+
+% Additional info
+
+% Experience Section
+\section*{Professional Experience}
+\noindent
+\textbf{SK Telecom, Co., Ltd.} \hfill Seoul, South Korea\\ % Company name and location
+\textit{Manager,} LTE/5G Radio Access Network (RAN) Performance Improvement Group \hfill Jan. 2022 | Sep. 2023 % Position and duration
+\begin{itemize}
+    \item LTE/5G L1/L2/L3 Network planning, engineering, troubleshooting, and performance analysis.
+    \item 64 TRX massive MIMO commercial verification test (with Samsung Electronics, Co., Ltd.).
+    \item Skilled with Python/SQL/Kubernetes/Linux/MATLAB.
+\end{itemize}
+
+\section*{Publications}
+\noindent\textup{(Accepted)}
+\begin{itemize}
+    \item \textbf{N. Kim}, S. Alikhani, and A. Alkhateeb, 
+    “LWM-Spectro: A foundation model for wireless baseband signal spectrograms,” 
+    \textit{Proc. IEEE International Conference on Communications (ICC 2026)}, 
+    Glasgow, Scotland, UK, 2026 (accepted). 
+    \href{https://arxiv.org/abs/2601.08780}{[\underline{arXiv}]}.
+\end{itemize}
+
+\noindent\textup{(Published)}
+\begin{itemize}
+    \item \textbf{N. Kim}, J. Han, J. Choi, A. Alkhateeb, C. -B. Chae and J. Park, 
+    “Integrated Sensing and Communications in Downlink FDD MIMO without CSI Feedback,” 
+    \textit{IEEE Transactions on Wireless Communications}, 2025.
+    \href{https://doi.org/10.1109/TWC.2025.3600645}{[\underline{Link}]}. 
+    
+    \item \textbf{N. Kim}, I. P. Roberts and J. Park, 
+    “Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO without CSI Feedback,” 
+    \textit{IEEE Transactions on Wireless Communications}, 2025.
+    \href{https://doi.org/10.1109/TWC.2025.3529945}{[\underline{Link}]}. 
+
+    \item J. Han, \textbf{N. Kim} and J. Park, 
+    “Reducing Latency by Eliminating CSIT Feedback: FDD Downlink MIMO Transmission for Internet-of-Things Communications,”
+    \textit{IEEE Internet of Things Journal}, Early Access, 2025.
+    \href{https://doi.org/10.1109/JIOT.2025.3647965}{[\underline{Link}]}.
+\end{itemize}
+  
+\noindent
+\textup{(Conference)}
+\begin{itemize}
+    \item \textbf{N. Kim} and J. Park, 
+    “Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC,” 
+    \textit{2025 IEEE International Symposium on Information Theory (ISIT)}, 
+    Ann Arbor, MI, USA, 2025, pp. 1–6.
+   \href{https://ieeexplore.ieee.org/abstract/document/11195261}{[\underline{Link}]}.
+    \item \textbf{N. Kim}, J. Han and J. Park, 
+    “Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC,” 
+    \textit{2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt)}, 
+    Seoul, South Korea, 2024, pp. 132–137.
+    \href{https://ieeexplore.ieee.org/document/10778378}{[\underline{Link}]}.
+\end{itemize}
+
+% Projects Section
+\section*{Projects}
+\noindent
+\textbf{LTE Link-Level Simulation} \hfill Seoul, South Korea\\ % Project name and location
+\textit{Intelligent \& Secure underwater CommunicaTion, (InSeCT), KRIT}
+   \hfill Sep. 2023 | Apr. 2024 % Project link and duration
+\begin{itemize}
+    \item Implemented the signal processing chain in an OFDM receiver.
+    \item Derived a post-equalization SINR model for CFO-impaired OFDM transmission.
+    \item Interconnected post-equalization SINR and BICM capacity.
+\end{itemize}
+\noindent
+\textbf{5G Shared Network Commercial Deployment} \hfill Daejeon, South Korea\\ % Project name and location
+\textit{SK Telecom}
+   \hfill Sep. 2022 | Aug. 2023 % Project link and duration
+\begin{itemize}
+    \item Expanded 5G coverage in Korea via the shared-network concept (with KT, LGU).
+    \item Integrated and optimized network equipment while addressing security concerns related to shared infrastructure.
+    \item Managed traffic load to maintain service quality with careful coordination in RAN.
+\end{itemize}
+\noindent
+\textbf{Undergraduate Capstone Project} \hfill Seoul, South Korea\\ % Project name and location
+\textit{School of Electrical Engineering, Yonsei University}
+   \hfill Mar. 2020 | Aug. 2020 % Project link and duration
+\begin{itemize}
+    \item Implemented during the COVID-19 period under the leadership of the department.
+    \item Developed a smart access control system combining RFID and temperature measurement sensors in campus.
+
+\end{itemize}
+\section*{Scholarships \& Awards}
+\noindent \textbf{Global Korea Scholarship: Study Abroad Scholarship Program} \hfill NIIED, Korean Government\par
+\noindent A prestigious national scholarship providing funding support to pursue graduate studies abroad. \hfill 2025-2026\par\vspace{2pt}
+
+\noindent \textbf{Graduate Student Academic Excellence Scholarship} \hfill Wooyang Foundation\par
+\noindent The Wooyang Foundation merit-based scholarship is one of the most prestigious scholarships in South Korea. \hfill 2021-2022\par\vspace{2pt}
+
+\noindent \textbf{Korean Government-funded Student} \hfill KAIST\par
+\noindent A master's student fully funded by Korean government scholarships. \hfill 2021-2022\par\vspace{2pt}
+
+\noindent \textbf{Department Chair Commendation} \hfill Dept. of EE., Yonsei University\par
+\noindent Recognized for successfully completing tutoring for international students at Songdo international campus. \hfill Feb. 2021\par\vspace{2pt}
+
+\noindent \textbf{Academic Excellence Award} \hfill Yonsei University\par
+\noindent Semester Honors (Spring 2016, Fall 2018, Spring 2019), High Honors (Spring 2020), Highest Honors (Fall 2019).\par\vspace{2pt}
+
+\noindent \textbf{Graduation with Distinction} \hfill Yonsei University\par
+\noindent Graduation with High Honors, placing in the top 3\% of graduates in electrical engineering major. \hfill Feb. 2021\par
+
+\section*{Teaching and Mentoring Experience}
+\noindent
+\textbf{Academic Tutor for International Students}  \hfill Songdo, Incheon, South Korea\\ % Company name and location
+\textit{EE Honor Society Program, Dept. of Electrical Engineering, Yonsei University} \hfill Sep. 2019 | Feb. 2021 % Position and duration
+\begin{itemize}
+    \item Tutored in Engineering Mathematics and Engineering Physics, guiding a total of 21 students.
+    \item Tutoring sessions were conducted at the request of international students, and most participants achieved strong grades.
+\end{itemize}
+\noindent
+\textbf{Graduate Teaching Assistant}  \hfill Daejeon, South Korea\\ % Company name and location
+\textit{Course: EE528: Engineering Random Processes, KAIST} \hfill Sep. 2021 | Feb. 2022 % Position and duration
+\begin{itemize}
+    \item Served as a teaching assistant for the class of Prof. Junil Choi.
+\end{itemize}
+
+%\section*{English Skills}
+%\begin{tabularx}{1\textwidth}{
+%>{\raggedright\arraybackslash}X 
+%>{\raggedright\arraybackslash}X }
+%  \textbf{TOEFL iBT:} 93/120 & \textbf{OPIc:} Intermediate High(IH)\\
+%  Reading: 27, Listening: 19, Speaking: 23, Writing: 24 & Test date: Mar. 2023 (administered by ACTFL)\\
+%  Test date: Mar. 2024 (administered by ETS) &  \\
+%\end{tabularx} \\
+
+% Skills Section
+\section*{Skills}
+\begin{itemize}
+    \item \textbf{Programming:} Python, C/C++, MATLAB.
+    \item \textbf{Software:} Linux, Kubernetes.
+    \item \textbf{Soft Skills:} Communication, adaptability, problem-solving.
+\end{itemize}
+\begin{comment}
+\section*{REFERENCES}
+\textbf{Prof. Junil%
+Choi}\\
+\textit{Tenured Associate Professor, Electrical Engineering, KAIST, Daejeon, South Korea.}\\
+E-mail: \href{mailto:junil@kaist.ac.kr}{junil@kaist.ac.kr}\\
+Scholar Profiles: \href{https://www.icl.kaist.ac.kr/}{\underline{Intelligent Communications Lab.}} | \href{https://scholar.google.com/citations?hl=ko&user=aSBAHt8AAAAJ}{\underline{Google Scholar}} | \href{https://www.linkedin.com/in/junil-choi-36900619/?originalSubdomain=kr}{\underline{LinkedIn}}\\ \\
+\textbf{Prof. Jeonghun Park}\\
+\textit{Assistant Professor, Electrical Engineering, Yonsei University, Seoul, South Korea.}\\
+E-mail: \href{mailto:jhpark@yonsei.ac.kr}{jhpark@yonsei.ac.kr}\\
+Scholar Profiles: \href{https://yonsei-jpark.github.io/}{\underline{MIMO+X Lab.}} | \href{https://scholar.google.com/citations?user=5dwYP3EAAAAJ&hl=en}{\underline{Google Scholar}} | \href{https://www.linkedin.com/in/jeonghun-park-5896a59b/?originalSubdomain=kr}{\underline{LinkedIn}}\\ \\
+\textbf{Hongjae Nam}\\
+\textit{Ph.D. Student, Electrical Engineering, Purdue University, West Lafayette, IN.}\\
+E-mail: \href{mailto:nam86@purdue.edu}{nam86@purdue.edu}\\
+Scholar Profiles: \href{https://sites.google.com/view/namhongjae}{\underline{Personal Page}} | \href{https://scholar.google.com/citations?user=ucFdABUAAAAJ&hl=ko&oi=ao}{\underline{Google Scholar}} | \href{https://www.linkedin.com/in/hongjae-nam-18b8831a3/}{\underline{LinkedIn}}\\ \\
+\textbf{Jeongwook Lee}\\
+\textit{Circuit Design Engineer, Samsung Austin Research and Development Center (SARC), Austin, TX.}\\
+E-mail: \href{mailto: jl6014@columbia.edu}{jl6014@columbia.edu}\\
+Scholar Profiles: \href{https://www.linkedin.com/in/jeongwook-lee-6a538a1bb/?locale=en_US}{\underline{LinkedIn}}\\ \\
+\textbf{Heegon Kim}\\
+\textit{Ph.D. Student, Electrical Engineering, University of Texas, Austin, TX.}\\
+E-mail: \href{mailto:heegonki@usc.edu}{heegonki@usc.edu}\\
+Scholar Profiles: \href{https://www.linkedin.com/in/heegonkim/}{\underline{LinkedIn}}\\ \\
+\textbf{Gyo-seung Lee}\\
+\textit{Ph.D. Student, Electrical Engineering, KAIST, Daejeon, South Korea.}\\
+E-mail: \href{mailto:iee4432@kaist.ac.kr}{iee4432@kaist.ac.kr}\\
+Scholar Profiles: \href{https://scholar.google.com/citations?user=L4sYB4QAAAAJ&hl=en}{\underline{Google Scholar}}\\ \\
+\textbf{Se-yong Kim}\\
+\textit{Ph.D. Student, Electrical Engineering, Yonsei University, Seoul, South Korea.}\\
+E-mail: \href{mailto:sykim@yonsei.ac.kr}{sykim@yonsei.ac.kr}\\
+Scholar Profiles: \href{https://ieeexplore.ieee.org/author/37089774231}{\textit{\underline{IEEE Xplore}}}
+\end{comment}
+\end{document}

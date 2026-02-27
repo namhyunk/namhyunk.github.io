@@ -189,6 +189,7 @@
   display: none;
   position: absolute;
   right: 0;
+  max-width: calc(100vw - 2rem);
   margin-top: 15px;
   padding: 10px;
   list-style-type: none;
@@ -244,7 +245,12 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
+    overflow-wrap: break-word;  // Allow long URLs to wrap on mobile
+
+    @include breakpoint($large) {
+      white-space: nowrap;
+    }
   }
 
   a {

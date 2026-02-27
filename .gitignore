@@ -18,3 +18,10 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Ignore LaTeX build artifacts
+CV/*.aux
+CV/*.log
+CV/*.out
+CV/*.fls
+CV/*.fdb_latexmk

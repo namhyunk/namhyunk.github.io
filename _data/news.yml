@@ -1,6 +1,12 @@
 # Research news items (reverse-chronological on the site)
 # Date format: YYYY-MM-DD
 
+- date: 2026-01-19
+  label: "Accepted"
+  title: "ICC 2026 (Glasgow, UK)"
+  description: "Our paper, \"LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms,\" was accepted to IEEE ICC 2026."
+  url: "https://arxiv.org/abs/2601.08780"
+
 - date: 2026-01-13
   label: "Preprint"
   title: "LWM-Spectro posted on arXiv"

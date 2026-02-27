@@ -88,7 +88,9 @@
 
 .cv-item-header {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
+  gap: 0.25rem;
   margin-bottom: 0.5rem;
 }
 
@@ -126,7 +128,7 @@
 /* Skills Styles */
 .cv-skills {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   gap: 1.5rem;
 }
 
@@ -188,7 +190,7 @@
 /* Interests Styles */
 .cv-interests {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
   gap: 1.5rem;
 }
 
