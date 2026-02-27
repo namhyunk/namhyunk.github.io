@@ -4,7 +4,7 @@ authors: "N. Kim, J. Han, J. Choi, A. Alkhateeb, C.-B. Chae and J. Park"
 venue: "IEEE Transactions on Wireless Communications (Published)"
 date: 2025-08-27
 category: manuscripts
-paperurl: "https://doi.org/10.1109/TWC.2025.3600645"
+paperurl: "https://ieeexplore.ieee.org/document/11142922"
 doi: "10.1109/TWC.2025.3600645"
 excerpt: "This paper explores integrated sensing and communications (ISAC) in downlink FDD MIMO systems without CSI feedback, combining rate-splitting multiple access (RSMA) with advanced error covariance estimation techniques to solve non-linear eigenvalue problems in joint sensing and communication optimization."
 ---

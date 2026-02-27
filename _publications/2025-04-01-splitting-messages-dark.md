@@ -4,7 +4,7 @@ authors: "N. Kim, I. P. Roberts and J. Park"
 venue: "IEEE Transactions on Wireless Communications (Published)"
 date: 2025-01-23
 category: manuscripts
-paperurl: "https://doi.org/10.1109/TWC.2025.3529945"
+paperurl: "https://ieeexplore.ieee.org/document/10851806"
 doi: "10.1109/TWC.2025.3529945"
 excerpt: "This paper presents a novel approach to rate-splitting multiple access (RSMA) for frequency-division duplex (FDD) massive MIMO systems without requiring channel state information (CSI) feedback. The proposed method addresses the challenge of CSI acquisition in FDD massive MIMO by leveraging error covariance estimation and generalized power iteration techniques."
 ---

@@ -4,7 +4,7 @@ authors: "J. Han, N. Kim, and J. Park"
 venue: "IEEE Internet of Things Journal (Early Access)"
 date: 2025-12-24
 category: manuscripts
-paperurl: "https://doi.org/10.1109/JIOT.2025.3647965"
+paperurl: "https://ieeexplore.ieee.org/document/11314548"
 excerpt: "Eliminates downlink CSIT feedback in FDD IoT MIMO transmission to reduce latency while maintaining strong spectral-efficiency performance under imperfect CSIT."
 ---
 
