@@ -37,3 +37,7 @@ Current projects include:
 - **Digital-twin** assisted wireless communications
 
 Prior to joining ASU, I worked as a network engineer at [SK Telecom](https://www.sktelecom.com/index_en.html). I have collaborated with [Prof. Jeonghun Park](https://yonsei-jpark.github.io/) and [Prof. Junil Choi](https://www.icl.kaist.ac.kr/people/professor). I received my M.S. in Electrical Engineering (2023) from [KAIST](https://www.kaist.ac.kr/en/) and my B.S. in Electrical and Electronic Engineering (Hons., 2021) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
+
+## News
+
+{% include news.html %}
