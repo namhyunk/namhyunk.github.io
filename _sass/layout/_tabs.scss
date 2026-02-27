@@ -59,6 +59,10 @@
 }
 
 @media (max-width: 740px) {
+  .nk-hero {
+    margin-bottom: 0.25rem;
+  }
+
   .nk-hero__row {
     flex-direction: column;
   }
