@@ -30,16 +30,14 @@ redirect_from:
   </div>
 </div>
 
-I am a PhD student in Electrical and Computer Engineering at [Arizona State University](https://www.asu.edu/). I work on next-generation wireless networks and how AI can rethink their design and optimization. I’m advised by [Prof. Ahmed Alkhateeb](https://scholar.google.com/citations?user=dLHw2qcAAAAJ&hl=en). I am a recipient of the Korean Government Scholarship Program (KGSP) ([NIIED](https://www.niied.go.kr/web/NIIED/contents/niiedEng/eng_studyAbroadKr)).
-
-My research focuses on practical, data-driven wireless system design—from PHY-layer signal processing and prototyping to learning-based spectrum/network intelligence. I work on representation learning and foundation models for wireless signals, as well as system and protocol design that connects algorithms to deployable implementations and communication standardization.
+I am a PhD student in Electrical and Computer Engineering at [Arizona State University](https://www.asu.edu/), advised by [Prof. Ahmed Alkhateeb](https://scholar.google.com/citations?user=dLHw2qcAAAAJ&hl=en). My research focuses on data-driven design of next-generation wireless networks—from foundation models for wireless signals to AI-assisted protocol design and system optimization. I am a recipient of the Korean Government Scholarship Program (KGSP) ([NIIED](https://www.niied.go.kr/web/NIIED/contents/niiedEng/eng_studyAbroadKr)).
 
 Current projects include:
 
 - Data-driven wireless systems and **foundation models** for wireless signals
-- **Massive MIMO** design under practical overhead constraints
-- Integrated sensing and communications (**ISAC**) for practical systems
 - **Digital-twin** assisted wireless communications
+- Integrated sensing and communications (**ISAC**) for practical systems
+- **Massive MIMO** design under practical overhead constraints
 
 Prior to joining ASU, I worked as a network engineer at [SK Telecom](https://www.sktelecom.com/index_en.html). I have collaborated with [Prof. Jeonghun Park](https://yonsei-jpark.github.io/) and [Prof. Junil Choi](https://www.icl.kaist.ac.kr/people/professor). I received my M.S. in Electrical Engineering (2023) from [KAIST](https://www.kaist.ac.kr/en/) and my B.S. in Electrical and Electronic Engineering (Hons., 2021) from [Yonsei University](https://www.yonsei.ac.kr/en_sc/index.do).
 
