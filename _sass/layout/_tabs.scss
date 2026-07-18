@@ -113,6 +113,11 @@
     flex-direction: column;
   }
 
+  .nk-hero__left {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
   .nk-hero__photo {
     width: 140px;
     height: 140px;
