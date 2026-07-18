@@ -72,9 +72,6 @@
       }
       &.fa-github {
         color: #171516;
-        html[data-theme="dark"] & {
-          color: #ffffff;
-        }
       }
       &.fa-linkedin {
         color: #007bb6;
@@ -121,5 +118,11 @@
   .nk-hero__photo {
     width: 140px;
     height: 140px;
+  }
+}
+
+html[data-theme="dark"] {
+  .nk-hero__links a i.fa-github {
+    color: #ffffff;
   }
 }
