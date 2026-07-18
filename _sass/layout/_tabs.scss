@@ -63,11 +63,30 @@
     i {
       font-size: 1.1em;
       line-height: 1;
+
+      &.ai-google-scholar {
+        color: #4285f4;
+      }
+      &.ai-orcid {
+        color: #a6ce39;
+      }
+      &.fa-github {
+        color: #171516;
+        html[data-theme="dark"] & {
+          color: #ffffff;
+        }
+      }
+      &.fa-linkedin {
+        color: #007bb6;
+      }
+      &.fa-file-pdf {
+        color: #e2141a;
+      }
     }
 
     &:hover {
       color: var(--global-link-color);
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 }
