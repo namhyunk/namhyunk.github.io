@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: var(--global-bg-color);
+  background: #002366;
   height: fit-content;
   top: 0;
   width: 100%;
@@ -20,7 +20,7 @@
     position: absolute;
     bottom: 0;
     height: 1px;
-    background: var(--global-border-color);
+    background: rgba(255, 255, 255, 0.12);
     width: 100%;
   }
 
@@ -42,6 +42,22 @@
       text-decoration: none;
     }
   }
+
+  .greedy-nav {
+    background: transparent;
+
+    a {
+      color: #ffffff;
+
+      &:hover {
+        color: #b3d1ff;
+      }
+    }
+  }
+
+  .masthead__menu-item {
+    background-color: transparent;
+  }
 }
 
 .masthead__menu {
@@ -55,7 +71,6 @@
 }
 
 .masthead__menu-item {
-  background-color: var(--global-bg-color);
   display: block;
   list-style-type: none;
   white-space: nowrap;
