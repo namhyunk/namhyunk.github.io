@@ -12,10 +12,16 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.author_profile or layout.author_profile or page.sidebar %}
+  {% assign has_sidebar = true %}
+{% else %}
+  {% assign has_sidebar = false %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
+  <div class="archive {% if has_sidebar == false %}no-sidebar{% endif %}">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
