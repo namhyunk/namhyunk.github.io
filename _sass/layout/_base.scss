@@ -32,6 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   font-family: $header-font-family;
   font-weight: 700;
+  color: #0504aa;
 }
 
 h1 {
@@ -148,6 +149,15 @@ a {
 
 tt, code, kbd, samp, pre {
   font-family: $monospace;
+}
+
+tt {
+  font-weight: bold;
+  font-style: italic;
+  background-color: #ffffdd;
+  color: #111;
+  padding: 1px 4px;
+  border-radius: 2px;
 }
 
 pre {
