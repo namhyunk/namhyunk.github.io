@@ -1,38 +1,50 @@
 # Research news items (reverse-chronological on the site)
 # Date format: YYYY-MM-DD
 
+- date: 2026-06-01
+  label: "Internship"
+  title: "Internship Started"
+  description: "Started a summer internship at the Wireless Lab, InterDigital, Inc. in Philadelphia, Pennsylvania."
+  url: "https://www.interdigital.com/"
+
+- date: 2026-05-22
+  label: "Conference"
+  title: "Conference Presentation"
+  description: "Presented our paper, \"LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms,\" at IEEE ICC 2026 in Glasgow, UK."
+  url: "https://arxiv.org/abs/2601.08780"
+
 - date: 2026-01-19
   label: "Accepted"
-  title: "ICC 2026 (Glasgow, UK)"
+  title: "Paper Publication"
   description: "Our paper, \"LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms,\" was accepted to IEEE ICC 2026."
   url: "https://arxiv.org/abs/2601.08780"
 
 - date: 2025-12-24
   label: "Journal (Early Access)"
-  title: "IEEE Internet of Things Journal"
+  title: "Paper Publication"
   description: "Our paper, \"Reducing Latency by Eliminating CSIT Feedback: FDD Downlink MIMO Transmission for Internet-of-Things Communications,\" is published in IEEE Internet of Things Journal (Early Access)."
-  url: "/publications/2025-12-01-eliminating-csit-feedback-iotj/"
+  url: "https://ieeexplore.ieee.org/document/11314548"
 
 - date: 2025-08-27
   label: "Journal (Early Access)"
-  title: "IEEE Transactions on Wireless Communications"
+  title: "Paper Publication"
   description: "Our paper, \"Integrated Sensing and Communications in Downlink FDD MIMO Without CSI Feedback,\" was published in IEEE Transactions on Wireless Communications (Early Access)."
-  url: "/publications/2025-05-01-integrated-sensing-communications/"
+  url: "https://ieeexplore.ieee.org/document/11142922"
 
 - date: 2025-06-22
   label: "Conference"
-  title: "ISIT 2025"
+  title: "Conference Presentation"
   description: "Our paper, \"Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC,\" was presented at ISIT 2025 in Ann Arbor, MI."
-  url: "/publications/2025-07-01-isac-isit/"
+  url: "https://ieeexplore.ieee.org/document/11195261"
 
 - date: 2025-01-23
   label: "Journal (Early Access)"
-  title: "IEEE Transactions on Wireless Communications"
+  title: "Paper Publication"
   description: "Our paper, \"Splitting Messages in the Dark – Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback,\" was published in IEEE Transactions on Wireless Communications (Early Access)."
-  url: "/publications/2025-04-01-splitting-messages-dark/"
+  url: "https://ieeexplore.ieee.org/document/10851806"
 
 - date: 2024-10-21
   label: "Conference"
-  title: "WiOpt 2024"
+  title: "Conference Presentation"
   description: "Our paper, \"Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC,\" was presented at WiOpt 2024 in Seoul, South Korea."
   url: "https://ieeexplore.ieee.org/document/10778378"
