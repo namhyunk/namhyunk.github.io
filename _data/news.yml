@@ -1,6 +1,12 @@
 # Research news items (reverse-chronological on the site)
 # Date format: YYYY-MM-DD
 
+- date: 2026-08-18
+  label: "Preprint"
+  title: "Paper Publication"
+  description: "Our paper, \"Digital Twin-Aided Prescreening for User Scheduling in MU-MIMO Downlink Systems,\" is available on <tt>arXiv</tt>."
+  url: "https://arxiv.org/abs/2608.10364"
+
 - date: 2026-06-01
   label: "Internship"
   title: "Internship Started"
