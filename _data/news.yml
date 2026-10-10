@@ -40,7 +40,7 @@
 - date: 2025-06-22
   label: "Conference"
   title: "Conference Presentation"
-  description: "Our paper, \"Integrated Sensing and Communications in FDD MIMO Without CSI Feedback: Towards FDD MIMO ISAC,\" was presented at <tt>ISIT 2025</tt> in Ann Arbor, MI."
+  description: "Our paper, \"Robust Precoding and Rate-Splitting Multiple Access for FDD Massive MIMO Without CSI Feedback,\" was presented at <tt>ISIT 2025</tt> in Ann Arbor, MI."
   url: "https://ieeexplore.ieee.org/document/11195261"
 
 - date: 2025-01-23
