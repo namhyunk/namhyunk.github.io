@@ -49,20 +49,20 @@ Prior to joining ASU, I worked as a network engineer at [SK Telecom](https://www
 
 **Reviewer — Journals**
 
-- IEEE Transactions on Information Theory
-- IEEE Transactions on Wireless Communications
-- IEEE Journal on Selected Areas in Communications
-- IEEE Journal of Selected Topics in Signal Processing
-- IEEE Journal on Selected Areas in Information Theory
-- IEEE Transactions on Machine Learning in Communications and Networking
-- IEEE Internet of Things Journal
-- IEEE Open Journal of the Communications Society
-- IEEE Communications Magazine
-- IEEE Communications Letters
-- npj Wireless Technology
-- Array
+- IEEE Transactions on Information Theory (T-IT)
+- IEEE Transactions on Wireless Communications (TWC)
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Journal of Selected Topics in Signal Processing (JSTSP)
+- IEEE Journal on Selected Areas in Information Theory (JSAIT)
+- IEEE Transactions on Machine Learning in Communications and Networking (TMLCN)
+- IEEE Internet of Things Journal (IoT-J)
+- IEEE Open Journal of the Communications Society (OJ-COMS)
+- IEEE Communications Magazine (ComMag)
+- IEEE Communications Letters (CL)
+- npj Wireless Technology (Nature Portfolio)
+- Array (Elsevier)
 
 **Reviewer — Conferences**
 
 - IEEE International Symposium on Information Theory (ISIT)
-- International Conference on Computer Communications and Networks (ICCCN)
+- IEEE International Conference on Computer Communications and Networks (ICCCN)
