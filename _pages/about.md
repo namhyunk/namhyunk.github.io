@@ -43,7 +43,7 @@ Prior to joining ASU, I worked as a network engineer at [SK Telecom](https://www
 
 ## News
 
-{% include news.html %}
+{% include news.html limit=10 %}
 
 ## Academic Service
 
